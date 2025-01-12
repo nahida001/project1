@@ -290,3 +290,126 @@ th{
     .banner-content1{
         max-width: 700px;
     }
+    /* donate*/
+    .donate{
+        font-size: 40px;
+        font-weight: bold;
+        text-align: center;
+       padding: 24px 24px 24px 24px;
+
+    
+    }
+    .today{
+        display:flex;
+        justify-content:space-between;
+        margin: 0 100px 0 100px;
+        gap:24px;
+        margin-bottom: 24px;
+        padding-left: 80px;
+        padding-right: 80px;
+        color: #0E0E0E;
+        font-weight: bold;
+        font-size: 16px;
+
+       
+     }
+     .skils{
+
+        text-align: center;
+        border-radius: 16px;
+        box-shadow: 0px 6px 50px 0 rgba(0, 0, 0, 0.06);
+        opacity: 100%;
+        background-color: #FFFFFF;
+       
+    }
+    .amount{
+        margin: 0 100px 0 100px;
+        text-align: center;
+        display: block;
+        
+        
+        
+    }
+    input[type="text"]{
+        padding:20px 450px 20px 450px;
+        box-shadow: 0px 6px 50px 0 rgba(0, 0, 0, 0.06);
+        border: none;
+        
+    }
+    .b7{
+        
+        margin-top: 24px;
+        border:none;
+        text-align: center;
+        justify-content: center;
+        margin-bottom: 40px;
+    }
+    .banner2{
+        display: flex;
+        justify-content:space-around;
+        align-items: center;
+        margin: 0 100px 0 100px;
+        background-color:#C6E4D6;
+        opacity: 100px;
+        border-radius:24px ;
+        padding: 48px;
+        margin-bottom: 80px;
+       
+    }
+
+    .banner-greeting1{
+        font-size: 40px;
+        font-weight: bold;
+        color:#0E0E0E;
+        text-align: center;
+    
+    }
+    .description1 {
+        margin-top: 10px;
+        margin-bottom: 24px;
+        padding-left: 100px;
+        padding-right: 100px;
+        color: #0E0E0E;
+        font-weight: 400;
+        font-size: 16px;
+        text-align: center;
+
+    
+    }
+    .subcribe{
+        display: flex;
+    }
+    
+    input[type="email"]{
+        margin-top: 24px;
+        padding:20px 200px 20px 200px;
+        box-shadow: 0px 6px 50px 0 rgba(0, 0, 0, 0.06);
+        border: none;
+        
+        
+    }
+    .b7{
+
+         margin-top: 24px;
+        border:none;
+        text-align: center;
+        margin-bottom: 80px;
+    }
+    .f-tittle{
+        font-weight: 800;
+        font-size: 25px;
+        color: #0E0E0E;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .ft{
+        color: #FFFFFF;
+
+    }
+
+    .icon{
+        text-align: center;
+        margin-bottom: 40px;
+
+    }
+
