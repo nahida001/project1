@@ -184,7 +184,7 @@ width: 480px;
 .comments{
    
     margin: 80px 100px 80px 100px;
-    border: 1px solid #D5D6D8;
+    border: 2px solid #D5D6D8;
     padding: 48px 24px 48px 24px;
     border-radius: 16px;
     background-image: url("../assets/quote-bg.png");
@@ -194,6 +194,7 @@ width: 480px;
     background-size:80px;
     background-color: #FFFFFF;
 }
+
 .skill-descrip{
     font-weight: 400;
     font-size: 16px;
@@ -211,4 +212,81 @@ width: 480px;
     font-size: 20px;
     gap:8px;
 }
+.tittles{
+    font-size: 40px;
+    font-weight: bold;
+   
+    padding-left: 100px;
 
+}
+/*table*/
+.comment{
+   
+    margin: 24px 100px 80px 100px;
+    border: 1px solid #D5D6D8;
+    padding: 48px 24px 48px 24px;
+    border-radius: 16px;
+    background-color: #FFFFFF;
+    
+}
+.tables{
+ font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+td{
+    border: 1px solid #C6E4D6; 
+    padding: 24px;
+    font-weight: 600;
+    font-size: 16px;
+   
+}
+th{
+    text-align: left;
+    padding: 24px;
+    background-color: #C6E4D6;
+    font-weight: 600;
+    font-size: 20px;
+}
+.data{
+    margin-right: 50px;
+    
+}
+.yes{
+    background-color: #FFFFFF;
+    text-align: center;
+    padding: 24px;
+    
+}
+.btn4{
+    background-color: #C6E4D6;
+    padding: 10px;
+   border-radius: 4px;
+   font-weight: 600;
+    font-size: 16px;
+}
+/**/
+.banner1{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    margin: 0 100px 0 100px;
+    background-color: #FFFFFF;
+    opacity: 100px;
+    border-radius:24px ;
+    padding: 48px;
+   margin-bottom: 24px;
+}
+.satelite{
+    width: 404px;
+    border-radius: 24px;
+    }
+    .b6{
+        margin-top: 24px;
+        border:none;
+        display: block;
+        
+    }
+    .banner-content1{
+        max-width: 700px;
+    }
